@@ -9,4 +9,5 @@ https://download.csdn.net/download/Zhiyuan_CU/14010140
 
 百度网盘链接也可下载：链接:https://pan.baidu.com/s/1UZRDPtclRZzFLA7RJlBWmw  密码:qmco
 
-
+根据已经收到的数据反馈，只提交了基本信息或者没有提交5次实验完整数据的用户，我们将不能发放奖励。数据提交后，我们会进行审核，奖励会在3个工作日内发放至您提供的支付宝账户。
+如果对奖励有疑问，欢迎联系我们，我们会给出解释或解决办法！
