@@ -11,14 +11,4 @@
 
 ***（温馨提示：每次小实验后必须要点击红色“提交数据”按钮来上传数据；使用APP前请务必关闭屏幕“自动旋转”功能哟！）***
 
-App下载链接如下，点击可直接下载：
-https://github.com/Xavierpku/DataBox2.0/raw/main/HARBox.apk
-
-无需登录操作，可直接从服务器下载：链接 http://49.235.85.146/HARBox.apk
-
-（推荐复制链接到浏览器打开）
-
-上述链接若无法打开，可点击下面链接直接下载（可能需要登录csdn）：
-https://download.csdn.net/download/Zhiyuan_CU/14010140
-
 
